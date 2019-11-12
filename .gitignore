@@ -52,3 +52,6 @@ projectFilesBackup
 captures
 *.iml
 
+signing.properties
+
+
